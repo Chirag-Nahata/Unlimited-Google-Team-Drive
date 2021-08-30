@@ -9,7 +9,7 @@ Go to this link: https://team.gdrive.vip/ (mirrors to be left at the last)
 Type your desired drive's name at the first field and your Gmail on the bottom field.
 
 ## Step III:
-Complete the captcha and hit the GET button and keep the tab/browser open until it says OK.
+Hit the SUBMIT button and keep the tab/browser open until it that the drive is created.
 
 ## Step IV:
 Boom, you got your UNLIMITED shared drive which can be used to share files and data among those people you add to the drive.
