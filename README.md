@@ -3,13 +3,13 @@
 You can get free unlimited shared team google drive storage using this trick. To use this trick follow the given steps :
 
 ## Step I:
-Go to this link: https://team.gdrive.vip/ (mirrors to be left at the last)
+Go to this link: https://team.gdrive.vip/.
 
 ## Step II:
-Type your desired drive's name at the first field and your Gmail on the bottom field.
+Type your desired drive's name at the first field and your gmail username on the bottom field.
 
 ## Step III:
-Hit the SUBMIT button and keep the tab/browser open until it that the drive is created.  OR  Complete the captcha and hit the GET button and keep the tab/browser open until it says OK.
+Hit the SUBMIT button and keep the tab/browser open until it that the drive is created.
 
 ## Step IV:
 Boom, you got your UNLIMITED shared drive which can be used to share files and data among those people you add to the drive.
